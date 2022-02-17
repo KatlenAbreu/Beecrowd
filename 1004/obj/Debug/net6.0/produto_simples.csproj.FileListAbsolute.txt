@@ -1,0 +1,14 @@
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.AssemblyInfoInputs.cache
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.AssemblyInfo.cs
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\Desktop\beecrowd\1004\bin\Debug\net6.0\produto_simples.exe
+C:\Users\Infocap\Desktop\beecrowd\1004\bin\Debug\net6.0\produto_simples.deps.json
+C:\Users\Infocap\Desktop\beecrowd\1004\bin\Debug\net6.0\produto_simples.runtimeconfig.json
+C:\Users\Infocap\Desktop\beecrowd\1004\bin\Debug\net6.0\produto_simples.dll
+C:\Users\Infocap\Desktop\beecrowd\1004\bin\Debug\net6.0\ref\produto_simples.dll
+C:\Users\Infocap\Desktop\beecrowd\1004\bin\Debug\net6.0\produto_simples.pdb
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.dll
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\ref\produto_simples.dll
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.pdb
+C:\Users\Infocap\Desktop\beecrowd\1004\obj\Debug\net6.0\produto_simples.genruntimeconfig.cache
