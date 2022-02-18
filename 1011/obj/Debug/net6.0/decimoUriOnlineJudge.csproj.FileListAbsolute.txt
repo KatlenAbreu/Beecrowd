@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\bin\Debug\net6.0\decimoUriOnlineJudge.exe
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\bin\Debug\net6.0\decimoUriOnlineJudge.deps.json
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\bin\Debug\net6.0\decimoUriOnlineJudge.runtimeconfig.json
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\bin\Debug\net6.0\decimoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\bin\Debug\net6.0\ref\decimoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\bin\Debug\net6.0\decimoUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\ref\decimoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\decimoUriOnlineJudge\decimoUriOnlineJudge\obj\Debug\net6.0\decimoUriOnlineJudge.genruntimeconfig.cache

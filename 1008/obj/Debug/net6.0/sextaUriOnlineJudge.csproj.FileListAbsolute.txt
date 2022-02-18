@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\bin\Debug\net6.0\sextaUriOnlineJudge.exe
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\bin\Debug\net6.0\sextaUriOnlineJudge.deps.json
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\bin\Debug\net6.0\sextaUriOnlineJudge.runtimeconfig.json
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\bin\Debug\net6.0\sextaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\bin\Debug\net6.0\ref\sextaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\bin\Debug\net6.0\sextaUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\ref\sextaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\sextaUriOnlineJudge\sextaUriOnlineJudge\obj\Debug\net6.0\sextaUriOnlineJudge.genruntimeconfig.cache

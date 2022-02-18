@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\bin\Debug\net6.0\terceitoUriOnlineJudge.exe
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\bin\Debug\net6.0\terceitoUriOnlineJudge.deps.json
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\bin\Debug\net6.0\terceitoUriOnlineJudge.runtimeconfig.json
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\bin\Debug\net6.0\terceitoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\bin\Debug\net6.0\ref\terceitoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\bin\Debug\net6.0\terceitoUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\ref\terceitoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\terceitoUriOnlineJudge\terceitoUriOnlineJudge\obj\Debug\net6.0\terceitoUriOnlineJudge.genruntimeconfig.cache

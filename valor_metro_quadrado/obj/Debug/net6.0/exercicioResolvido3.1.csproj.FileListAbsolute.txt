@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\bin\Debug\net6.0\exercicioResolvido3.1.exe
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\bin\Debug\net6.0\exercicioResolvido3.1.deps.json
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\bin\Debug\net6.0\exercicioResolvido3.1.runtimeconfig.json
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\bin\Debug\net6.0\exercicioResolvido3.1.dll
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\bin\Debug\net6.0\ref\exercicioResolvido3.1.dll
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\bin\Debug\net6.0\exercicioResolvido3.1.pdb
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.dll
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\ref\exercicioResolvido3.1.dll
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.pdb
+C:\Users\Infocap\source\repos\exercicioResolvido3.1\exercicioResolvido3.1\obj\Debug\net6.0\exercicioResolvido3.1.genruntimeconfig.cache

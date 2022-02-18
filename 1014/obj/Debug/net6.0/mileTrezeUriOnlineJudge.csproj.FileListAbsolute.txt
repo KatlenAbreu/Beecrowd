@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\bin\Debug\net6.0\mileTrezeUriOnlineJudge.exe
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\bin\Debug\net6.0\mileTrezeUriOnlineJudge.deps.json
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\bin\Debug\net6.0\mileTrezeUriOnlineJudge.runtimeconfig.json
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\bin\Debug\net6.0\mileTrezeUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\bin\Debug\net6.0\ref\mileTrezeUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\bin\Debug\net6.0\mileTrezeUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\ref\mileTrezeUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\mileTrezeUriOnlineJudge\mileTrezeUriOnlineJudge\obj\Debug\net6.0\mileTrezeUriOnlineJudge.genruntimeconfig.cache

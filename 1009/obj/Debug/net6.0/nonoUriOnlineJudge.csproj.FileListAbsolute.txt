@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\bin\Debug\net6.0\nonoUriOnlineJudge.exe
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\bin\Debug\net6.0\nonoUriOnlineJudge.deps.json
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\bin\Debug\net6.0\nonoUriOnlineJudge.runtimeconfig.json
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\bin\Debug\net6.0\nonoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\bin\Debug\net6.0\ref\nonoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\bin\Debug\net6.0\nonoUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\ref\nonoUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\nonoUriOnlineJudge\nonoUriOnlineJudge\obj\Debug\net6.0\nonoUriOnlineJudge.genruntimeconfig.cache

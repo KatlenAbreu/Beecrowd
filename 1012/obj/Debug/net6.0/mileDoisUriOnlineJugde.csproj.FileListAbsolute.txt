@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\bin\Debug\net6.0\mileDoisUriOnlineJugde.exe
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\bin\Debug\net6.0\mileDoisUriOnlineJugde.deps.json
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\bin\Debug\net6.0\mileDoisUriOnlineJugde.runtimeconfig.json
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\bin\Debug\net6.0\mileDoisUriOnlineJugde.dll
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\bin\Debug\net6.0\ref\mileDoisUriOnlineJugde.dll
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\bin\Debug\net6.0\mileDoisUriOnlineJugde.pdb
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.csproj.AssemblyReference.cache
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.dll
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\ref\mileDoisUriOnlineJugde.dll
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.pdb
+C:\Users\Infocap\source\repos\mileDoisUriOnlineJugde\mileDoisUriOnlineJugde\obj\Debug\net6.0\mileDoisUriOnlineJugde.genruntimeconfig.cache

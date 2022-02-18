@@ -1,0 +1,15 @@
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\bin\Debug\net6.0\quintaUriOnlineJudge.exe
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\bin\Debug\net6.0\quintaUriOnlineJudge.deps.json
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\bin\Debug\net6.0\quintaUriOnlineJudge.runtimeconfig.json
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\bin\Debug\net6.0\quintaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\bin\Debug\net6.0\ref\quintaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\bin\Debug\net6.0\quintaUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.AssemblyInfoInputs.cache
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.AssemblyInfo.cs
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.csproj.CoreCompileInputs.cache
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\ref\quintaUriOnlineJudge.dll
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.pdb
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.genruntimeconfig.cache
+C:\Users\Infocap\source\repos\quintaUriOnlineJudge\quintaUriOnlineJudge\obj\Debug\net6.0\quintaUriOnlineJudge.csproj.AssemblyReference.cache
